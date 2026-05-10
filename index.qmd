@@ -1,26 +1,55 @@
 ---
-title: "Hi, I'm [Your Name Here]"
+title: "Hi, I'm Medha Khanal"
 ---
-
 
 ::: {.columns}
 ::: {.column width="30%"}
-![](https://placehold.co/530x530?text=images/headshot.jpg){width=100% style="border-radius: 50%;"}
+images/headshot.jpg{width=100% style="border-radius: 50%;"}
 :::
-::: {.column width="70%" style="padding-left: 3rem;"}
-I'm a [your profession or area of focus]. I specialize in transforming complex information into clear, engaging, and actionable insights.
+
+::: {.column width="70%" style="padding-left: 2rem;"}
+
+I'm an International Business and Marketing student at **Cal Poly Pomona** with a strong interest in **business analytics and digital marketing strategy**. I enjoy using technical and creative skills together to understand consumer behaviour and marketing performance.  
+
 :::
 :::
+
+---
 
 ## About Me
 
-I hold a <span class="highlight">[Your Degree or Current Program]</span> from [Your Institution].
+I am currently pursuing my degree in **International Business and Marketing** at Cal Poly Pomona. Through my coursework and hands-on experiences, I’ve developed a foundation in areas such as **digital marketing, data-driven decision-making, international business, trade relations, and ethical + philosophical implications of international business practices**.
 
+---
 
+## 📊 What I Bring
 
-## Let's Connect
+- Experience with **digital marketing campaigns** and social media strategy  
+- Understanding of **SEO and online advertising concepts**  
+- Ability to analyze data and translate it into actionable insights  
+- Strong communication and collaboration skills in team environments
+- Strong business management and strategy-related work
 
-You can [email me](mailto:you@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/your-profile).
+---
+
+## Career Interests
+
+I am particularly interested in roles related to:
+- Marketing Analytics  
+- Digital Marketing  
+- Business/Data Analysis  
+-International Trade Relations and Laws
+-Import + Export Regulations
+
+I am motivated to apply analytical thinking and creative strategy to solve real-world global business challenges.
+
+---
+
+## 📬 Let's Connect
+
+- 📧 Email: ilyakhl313@gmail.com  
+- 🔗 https://www.linkedin.com/in/medha-khanal/  
+- 💻 https://github.com/ilyakhl313-prog
 
 ---
 
