@@ -2,6 +2,17 @@
 title: "Hi, I'm Ilya Khanal"
 ---
 
+::: {.hero}
+# Ilya Khanal  
+### Marketing • Data • Strategy  
+
+Exploring the intersection of data-driven decision making and creative strategy in global business environments.
+
+[View My Work](strategic-marketing.qmd){.hero-button}
+:::
+
+---
+
 ::: {.columns}
 
 ::: {.column width="30%"}
@@ -16,43 +27,67 @@ I'm an International Business and Marketing student at **Cal Poly Pomona** with 
 
 :::
 
+---
+
 ## About Me
 
 I am currently pursuing my degree in **International Business and Marketing** at Cal Poly Pomona. Through my coursework and hands-on experiences, I have developed a strong foundation in both **digital marketing** and **data-driven decision-making**.
 
+---
+
+## What I Do
+
+::: {.cards}
+
+::: {.card}
+### Digital Marketing  
+Campaign strategy, social media, and audience targeting  
+:::
+
+::: {.card}
+### Data Analysis  
+Using data to generate insights and support decisions  
+:::
+
+::: {.card}
+### Global Strategy  
+Analyzing international markets and expansion opportunities  
+:::
+
+:::
+
+---
 
 ## What I Bring
 
-- Experience with **digital marketing campaigns** and social media strategy
+- Experience with **digital marketing campaigns** and social media strategy  
 - Understanding of **SEO and online advertising concepts**  
 - Ability to analyze data and translate it into actionable insights  
-- Strong communication and collaboration skills in team environments
-- Strong understanding of international import and export laws
-- International Business management and strategy knowledge
+- Strong communication and collaboration skills in team environments  
+- Strong understanding of international import and export laws  
+- International Business management and strategy knowledge  
 
 ---
 
 ## Career Interests
 
-
- am particularly interested in roles related to:
+I am particularly interested in roles related to:
 
 - Marketing Analytics  
 - Digital Marketing  
-- Business/Data Analysis
-- International Business Strategy
-- Trade Laws and Regulations
+- Business/Data Analysis  
+- International Business Strategy  
+- Trade Laws and Regulations  
 
 I am motivated to apply analytical thinking and creative strategy to solve real-world business challenges.
 
+---
 
 ## Let's Connect
 
-
 - Email: ilyakhl313@gmail.com  
 - Linkedin: https://www.linkedin.com/in/medha-khanal/  
-- Github: https://github.com/ilyakhl313-prog
-
+- Github: https://github.com/ilyakhl313-prog  
 
 ---
 
