@@ -107,16 +107,16 @@
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
-    "title": "Hi, I’m [Your Name Here]",
+    "title": "Hi, I’m Ilya",
     "section": "About Me",
-    "text": "About Me\nI hold a [Your Degree or Current Program] from [Your Institution]."
+    "text": "About Me\nI am currently pursuing my degree in International Business and Marketing at Cal Poly Pomona. Through my coursework and hands-on experiences, I’ve developed a foundation in both digital marketing and data-driven decision-making. Through my work, I hope to be able to utilize data to help solve real world issues in relation to global business and relation practices"
   },
   {
     "objectID": "index.html#lets-connect",
     "href": "index.html#lets-connect",
-    "title": "Hi, I’m [Your Name Here]",
+    "title": "Hi, I’m Ilya",
     "section": "Let’s Connect",
-    "text": "Let’s Connect\nYou can email me or connect on LinkedIn.\n\nWelcome to my portfolio."
+    "text": "Let’s Connect\n\nEmail: ilyakhl@gmail.com\n\nhttps://www.linkedin.com/in/medha-khanal/\n\nhttps://github.com/ilyakhl313-prog\n\n\nWelcome to my portfolio."
   },
   {
     "objectID": "contact-us/contact-us.html",
@@ -124,5 +124,19 @@
     "title": "Contact Us",
     "section": "",
     "text": "Template"
+  },
+  {
+    "objectID": "index.html#what-i-bring",
+    "href": "index.html#what-i-bring",
+    "title": "Hi, I’m Ilya",
+    "section": "What I Bring",
+    "text": "What I Bring\n\nExperience with digital marketing campaigns and social media strategy\nUnderstanding of SEO and online advertising concepts\n\nAbility to analyze data and translate it into actionable insights\n\nStrong communication and collaboration skills in team environments\nStrong understanding of international import and export laws\nInternational Business management and strategy knowledge"
+  },
+  {
+    "objectID": "index.html#career-interests",
+    "href": "index.html#career-interests",
+    "title": "Hi, I’m Ilya",
+    "section": "Career Interests",
+    "text": "Career Interests\nam particularly interested in roles related to:\n\nMarketing Analytics\n\nDigital Marketing\n\nBusiness/Data Analysis\nInternational Business Strategy\nTrade Laws and Regulations\n\nI am motivated to apply analytical thinking and creative strategy to solve real-world business challenges."
   }
 ]
