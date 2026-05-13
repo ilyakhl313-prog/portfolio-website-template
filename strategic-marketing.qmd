@@ -2,59 +2,202 @@
 title: "Strategic Marketing"
 ---
 
-Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success.
-
-## [Project Title 1: Strategic Campaign Planning]
-
-In this project, I led the development of a comprehensive marketing campaign for **[product, service, or initiative]**. From audience segmentation to messaging strategy, I managed the full lifecycle of the campaign, aligning it with business objectives and measurable KPIs.
-
-**Skills Demonstrated:**
-
-- **Marketing Strategy:** Defined objectives and tactics for maximum impact.
-- **Team Coordination:** Oversaw collaboration across creative, data, and channel teams.
-- **Performance Tracking:** Implemented real-time metrics and post-campaign analysis.
-- **Brand Positioning:** Ensured consistency across all touchpoints.
+# Strategic Marketing Portfolio  
+**Ilya Khanal**
 
 ---
 
-## [Project Title 2: Brand Audit & Positioning]
+## Introduction
 
-This initiative involved conducting a full brand audit for **[organization or brand]**, evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity recommendations.
-
-**Skills Demonstrated:**
-
-- **Brand Analysis:** Audited messaging, tone, and visual identity.
-- **Competitive Benchmarking:** Evaluated brand positioning within the market.
-- **Strategic Communication:** Developed new value propositions and storytelling elements.
-- **Stakeholder Presentation:** Delivered recommendations to senior leadership.
+This portfolio showcases a collection of projects demonstrating my experience in strategic marketing, data analysis, international business, and campaign development. These projects highlight my ability to apply data-driven decision making, global market analysis, and creative strategy to real-world business challenges.
 
 ---
 
-## [Project Title 3: Product Launch Go-to-Market Plan]
-
-For the release of **[new product/service]**, I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.
-
-**Skills Demonstrated:**
-
-- **Go-to-Market Strategy:** Developed a clear launch roadmap aligned with buyer needs.
-- **Integrated Marketing:** Orchestrated email, paid ads, social, and on-site promotions.
-- **Budget Management:** Allocated resources efficiently across tactics.
-- **Launch Optimization:** Tracked performance and refined tactics in real time.
-
-Below is an embedded demonstration of the interactive report:
+## Integrated Digital Marketing Campaign: charity: water
 
 
-<iframe src="data/TRI SEO Comparison.html" width="100%" height="600px" style="border: none;"></iframe>
+### Overview  
+In this project, I developed a full-scale digital marketing campaign for charity: water, focused on engaging college students and increasing donations through targeted digital strategies. The campaign integrated social media, influencer marketing, and paid advertising to drive awareness and conversions.
+
+### Strategy and Execution  
+- Targeted college students through tailored messaging and platform selection  
+- Set a campaign KPI goal of achieving $2,000 in monthly donations  
+- Designed a landing page highlighting youth engagement and impact  
+
+### Key Components  
+
+#### Social Media Strategy  
+- Developed Instagram content pillars focused on community-building, storytelling, and fundraising  
+- Created engaging posts designed to drive awareness and participation  
+
+#### Influencer Marketing  
+- Selected influencers with college-aged audiences (100k+ followers)  
+- Developed guidelines emphasizing authenticity, education, and calls to action  
+
+#### Paid Advertising Strategy  
+- Created interest-based targeting for donation campaigns  
+- Designed retargeting strategies for users interested in environmental and social causes  
+- Focused on cost-per-click efficiency and conversion optimization  
+
+#### Experiential Marketing  
+- Proposed a campus ambassador program to increase engagement  
+- Recommended on-campus activations and partnerships with student organizations  
+
+### Skills Demonstrated  
+Digital marketing strategy, audience segmentation, influencer marketing, campaign development, KPI analysis, paid advertising
 
 ---
 
-## [Project Title 4: Client Consulting & Campaign Optimization]
+## Data Analysis Project: Employee Performance and Salary Insights
 
-I collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.
+### Overview  
+In this independent project, I analyzed a dataset of over 700 employees to identify trends in salary distribution, job roles, tenure, performance, and gender dynamics.
 
-**Skills Demonstrated:**
+### Key Findings  
 
-- **Client Consulting:** Provided clear insights and strategic guidance.
-- **Persona Development:** Built target personas to guide messaging.
-- **Campaign Optimization:** Identified and addressed areas of underperformance.
-- **Data-Driven Adjustments:** Leveraged analytics to refine tactics.
+#### Salary Insights  
+- Salaries ranged from $26,000 to over $425,000  
+- Executive roles exceeded $140,000, while entry-level positions remained between $26,000–$40,000  
+
+#### Performance Trends  
+- Most employees were rated “Meets Expectations”  
+- High-performing employees were concentrated in leadership and technical roles  
+
+#### Gender Analysis  
+- Female employees held a strong presence in leadership roles and high-income brackets  
+- Differences were driven primarily by job role rather than gender  
+
+#### Workforce Distribution  
+- Most employees were in operational roles such as stocking and customer service  
+- Specialized roles were fewer but significantly higher-paying  
+
+### Strategic Insights  
+This analysis demonstrates how compensation, performance, and career progression are closely tied to role specialization and experience. It highlights the importance of data in informing compensation and workforce strategy decisions.
+
+### Skills Demonstrated  
+Data analysis, Excel, business intelligence, performance evaluation, quantitative reasoning
+
+---
+
+## Global Expansion Strategy: Patagonia in Kazakhstan
+
+### Overview  
+This project focused on developing a market entry strategy for Patagonia into Kazakhstan, evaluating economic, cultural, and competitive factors.
+
+### Key Analysis  
+- Alignment between sustainability values and local environmental awareness  
+- Growing demand driven by tourism and outdoor activity  
+- Strong potential supported by market and industry analysis  
+
+### Strategy Recommendation  
+- Enter through a joint venture  
+- Adapt products to extreme conditions  
+- Position the brand as premium and sustainability-driven  
+
+### Skills Demonstrated  
+Global strategy, market analysis, competitive positioning, strategic planning
+
+---
+
+## International Market Entry Strategy: U.S. Cookies in Argentina
+
+### Overview  
+This project evaluated the feasibility of launching American-style cookies with dulce de leche in Argentina.
+
+### Key Insights  
+- Strong snack culture supports demand  
+- Economic challenges include inflation and import restrictions  
+- Cultural alignment creates opportunity for localization  
+
+### Strategy Recommendation  
+- Adapt product to local taste preferences  
+- Target urban, middle-class consumers  
+- Use local partnerships to reduce barriers  
+
+### Skills Demonstrated  
+Consumer behavior analysis, market research, product adaptation, international strategy
+
+---
+
+## Export Marketing Strategy: U.S. Wine in South Africa
+
+### Overview  
+This project developed a strategy for exporting premium California wine to South Africa.
+
+### Key Insights  
+- Growing demand for imported premium wines  
+- Opportunity in tourism and hospitality sectors  
+- Risks include tariffs and currency fluctuations  
+
+### Strategy Recommendation  
+- Use local distributors  
+- Focus on premium branding and experience-based marketing  
+- Mitigate risk through pricing and partnerships  
+
+### Skills Demonstrated  
+Export strategy, pricing analysis, logistics planning, financial evaluation
+
+---
+
+## Corporate Strategy and Financial Analysis: Apple
+
+### Overview  
+This project analyzed Apple’s global strategy and financial performance compared to competitors.
+
+### Key Analysis  
+- Strong brand positioning through innovation and differentiation  
+- Premium pricing reinforces brand value  
+- High operational efficiency supported by financial ratios  
+
+### Strategic Insights  
+- Competitive advantage driven by user experience and brand identity  
+- Financial leverage presents both opportunities and risks  
+
+### Skills Demonstrated  
+Financial analysis, competitive benchmarking, strategic evaluation
+
+---
+
+## International Market Strategy Case Study: Auchan
+
+### Overview  
+This case study analyzed Auchan’s decision regarding its operations in Russia during geopolitical conflict.
+
+### Key Analysis  
+- Considered financial, operational, and reputational risks  
+- Evaluated alignment with global expansion strategy  
+- Examined political and economic uncertainty  
+
+### Strategy Recommendation  
+- Maintain presence with adapted operations  
+- Expand e-commerce capabilities  
+- Improve communication with stakeholders  
+
+### Skills Demonstrated  
+Strategic decision-making, risk assessment, global business analysis
+
+---
+
+## Legal and Regulatory Analysis: Edmond v. Indianapolis
+
+### Overview  
+This project analyzed a Supreme Court case regarding the constitutionality of police roadblocks.
+
+### Key Issue  
+Whether checkpoints without individualized suspicion violate constitutional rights  
+
+### Decision  
+The Supreme Court ruled such roadblocks unconstitutional  
+
+### Business Implications  
+- Importance of legal and regulatory compliance  
+- Direct impact of policy on operational decisions  
+
+### Skills Demonstrated  
+Legal analysis, critical thinking, policy evaluation, compliance awareness
+
+---
+
+## Conclusion
+
+This portfolio reflects a diverse set of skills across marketing, analytics, international business, and strategy. These projects demonstrate my ability to analyze data, evaluate global opportunities, and design effective marketing solutions grounded in research and insight.

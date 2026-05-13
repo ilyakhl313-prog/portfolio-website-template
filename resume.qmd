@@ -2,7 +2,7 @@
 title: "Résumé"
 ---
 
-[View My Resume (PDF)](resume/Resume.pdf)
+[View My Resume (PDF)](resume/Resume.pdf){target="_blank"}
 ---
 
 # Education
@@ -45,7 +45,7 @@ title: "Résumé"
 - **Analytics:** SEO Keyword Research, A/B Testing, Campaign Analysis  
 - **Tools:** Google Ads, Shopify, Excel, R, Github
 - **Class Work Skills** Financial and Managerial Accounting, International exporting + importing law, Business management and strategy, global marketing innitiatives 
-- **Languages:** Nepali (Native), English (Fluent), Hindi (Intermediate), French (Intermediate) [1](https://livecsupomona-my.sharepoint.com/personal/mkhanal_cpp_edu)%20(1).pdf)  
+- **Languages:** Nepali (Native), English (Fluent), Hindi (Intermediate), French (Intermediate)  
 
 ---
 
@@ -63,4 +63,4 @@ title: "Résumé"
 
 With my experienced in cross-cultural collaboration through roles in public relations and the Disney College Program, I was able to work with diverse teams and contribute to event planning, customer engagement, and brand experiences. Demonstrating the ability to analyze market trends, optimize campaign performance, and translate data into actionable insights.
 
-I am very passionate about combining global business perspective with marketing analytics to drive effective strategies and improve business outcomes. [1](https://livecsupomona-my.sharepoint.com/personal/mkhanal_cpp_edu)%20(1).pdf)  
+I am very passionate about combining global business perspective with marketing analytics to drive effective strategies and improve business outcomes. 

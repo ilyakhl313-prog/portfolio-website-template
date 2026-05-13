@@ -1,16 +1,16 @@
 ---
-title: "Hi, I'm Ilya"
+title: "Hi, I'm Ilya Khanal"
 ---
 
 ::: {.columns}
 
 ::: {.column width="30%"}
-images/me.jpg{width=100% style="border-radius: 50%;"}
+![](images/me.jpg){width=100% style="border-radius: 50%;"}
 :::
 
 ::: {.column width="70%" style="padding-left: 2rem;"}
 
-I'm an International Business and Marketing student at **Cal Poly Pomona** with a strong interest in marketing analytics and digital strategy.
+I'm an International Business and Marketing student at **Cal Poly Pomona** with a strong interest in **marketing analytics and digital strategy**. I enjoy using data and creative strategy to understand consumer behavior and improve marketing performance.
 
 :::
 
@@ -18,8 +18,7 @@ I'm an International Business and Marketing student at **Cal Poly Pomona** with 
 
 ## About Me
 
-
-I am currently pursuing my degree in **International Business and Marketing** at Cal Poly Pomona. Through my coursework and hands-on experiences, I’ve developed a foundation in both **digital marketing and data-driven decision-making**.  Through my work, I hope to be able to utilize data to help solve real world issues in relation to global business and relation practices
+I am currently pursuing my degree in **International Business and Marketing** at Cal Poly Pomona. Through my coursework and hands-on experiences, I have developed a strong foundation in both **digital marketing** and **data-driven decision-making**.
 
 
 ## What I Bring
@@ -51,8 +50,8 @@ I am motivated to apply analytical thinking and creative strategy to solve real-
 
 
 - Email: ilyakhl313@gmail.com  
-- https://www.linkedin.com/in/medha-khanal/  
-- https://github.com/ilyakhl313-prog
+- Linkedin: https://www.linkedin.com/in/medha-khanal/  
+- Github: https://github.com/ilyakhl313-prog
 
 
 ---
