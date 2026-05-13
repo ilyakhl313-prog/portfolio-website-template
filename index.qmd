@@ -2,7 +2,6 @@
 title: "Hi, I'm Ilya"
 ---
 
-
 ::: {.columns}
 ::: {.column width="30%"}
 ![](images/me.jpg{width=100% style="border-radius: 50%;"})
